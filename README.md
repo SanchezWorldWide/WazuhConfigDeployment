@@ -1,0 +1,2 @@
+# WazuhConfigDeployment
+Wazuh SIEM Server
